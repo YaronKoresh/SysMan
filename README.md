@@ -96,7 +96,7 @@ SysMan is built on a **Polyglot Architecture**, combining C# with a native Power
 
 **Copyright © 2025 Yaron Koresh.**
 
-> *WARNING: The SysMan project is a project whose code is partly MIT (open source) and partly all rights reserved. [This repository](https://github.com/YaronKoresh/SysMan) is under the MIT license while the rest of the code is not open source and all rights reserved. Both types of code are compiled and released as SysMan.exe. Any attempt to obtain the full source code of the SysMan project is strictly prohibited.*
+> *WARNING: The SysMan project is a project whose code is partly MIT (open source) and partly all rights reserved. [This repository](https://github.com/YaronKoresh/SysMan) is under the MIT license while the rest of the code is not open source and all rights to it are reserved. Both types of code are compiled and released as SysMan.exe. Any attempt to obtain the full source code of the SysMan project is strictly prohibited.*
 
 Contact: aharonkoresh1@gmail.com
 
