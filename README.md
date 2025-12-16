@@ -22,7 +22,7 @@ SysMan is designed for the high-pressure realities of system administrators and 
 In an industry where downtime equals revenue loss, SysMan reduces "Time-to-Resolution" (TTR) by removing the cognitive load of diagnostics.
 
 * **🧠 Cognitive Offload:** Forget memorizing obscure PowerShell syntax or Registry paths. SysMan presents every possible scenario—from *Boot Failure* to *Network Isolation*—in a clear, human-readable menu.
-* **🔌 Plug-and-Play Power:** A fully portable executable that runs instantly on any Windows machine. No agents, no prerequisites, no "DLL missing" errors.
+* **🔌 Plug-and-Play Power:** A fully portable software that runs instantly on Windows machines. No agents, no prerequisites, no "DLL missing" errors.
 * **🛡️ Dual-Mode Engineering:**
     * **Crisis Mode:** Instant incident response tools (Kill-Switch, Forensics, Unblocking).
     * **Maintenance Mode:** Proactive hygiene tools (Debloat, Optimize, Patch).
@@ -73,12 +73,12 @@ SysMan is architected around four pillars of system integrity:
 
 ## Quick Start
 
-1.  **Deploy:** Place `SysMan.exe` on a USB drive or network share.
-2.  **Launch:** Run as Administrator (Elevated privileges required for deep access).
+1.  **Deploy:** Place SysMan directory on a USB drive or network share.
+2.  **Launch:** Run `SysMan.exe` as Administrator (Elevated privileges required for deep access).
 3.  **Execute:**
-    * Select **[1] Maintenance** for routine care.
-    * Select **[2] Troubleshooting** for critical repairs.
-    * Select **[3] Advanced** for granular control.
+    * Select **Maintenance** for routine care.
+    * Select **Troubleshooting** for critical repairs.
+    * Select **Advanced** for granular control.
 
 > *Tip: Use the advanced "Resources Monitor" (Option R) for an instant overview of CPU, RAM, and Disk health.*
 
@@ -101,4 +101,3 @@ SysMan is built on a **Polyglot Architecture**, combining C# with a native Power
 Contact: aharonkoresh1@gmail.com
 
 *This software is provided "AS IS" for professional use. While engineered for safety, the author accepts no liability for data loss or system instability resulting from misuse of administrative functions.*
-
