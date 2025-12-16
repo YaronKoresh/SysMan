@@ -80,7 +80,7 @@ SysMan is architected around four pillars of system integrity:
     * Select **[2] Troubleshooting** for critical repairs.
     * Select **[3] Advanced** for granular control.
 
-> *Tip: Use the advanced "Health Dashboard" (Option H) for an instant overview of CPU, RAM, and Disk health.*
+> *Tip: Use the advanced "Resources Monitor" (Option R) for an instant overview of CPU, RAM, and Disk health.*
 
 ---
 
